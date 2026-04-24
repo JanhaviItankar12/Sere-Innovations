@@ -118,10 +118,11 @@ cd Frontend
 4. **Build for production**
    ```npm run build```
 
-🎯 Key Highlights
-Realistic farmer-centric design (not generic SaaS UI)
-No fake testimonials or misleading claims
-Strong focus on trust, clarity, and usability
-Clean component-based architecture
    
+## 🎯 Key Highlights
+
+- 🌾 Realistic farmer-centric design (not generic SaaS UI)  
+- 🚫 No fake testimonials or misleading claims  
+- 🤝 Strong focus on trust, clarity, and usability  
+- 🧩 Clean component-based architecture  
    
