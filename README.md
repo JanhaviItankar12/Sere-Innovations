@@ -28,35 +28,38 @@ The design follows a **simple, trustworthy, human, grounded** personality — no
 ---
 
 ## 📂 Project Structure
+
+```bash
 src/
 ├── components/
-│ ├── Navbar.jsx
-│ ├── Layout.jsx
-│ ├── Footer.jsx
-│ └── ScrollToTop.jsx
+│   ├── Navbar.jsx
+│   ├── Layout.jsx
+│   ├── Footer.jsx
+│   └── ScrollToTop.jsx
 │
 ├── HomePage/
-│ ├── HomePage.jsx
-│ ├── components/
-│ │ ├── HeroSection.jsx
-│ │ ├── ProblemSection.jsx
-│ │ ├── SolutionSection.jsx
-│ │ ├── FeaturesSection.jsx
-│ │ ├── BenefitsSection.jsx
-│ │ ├── TrustSection.jsx
-│ │ ├── AudienceSection.jsx
-│ │ ├── ReviewsCarousel.jsx
-│ │ └── CTASection.jsx
-│ │
-│ ├── PrivacyPolicy.jsx
-│ ├── ContactUs.jsx
-│ ├── AboutUs.jsx
-│ ├── HelpCenter.jsx
-│ ├── FarmersGuide.jsx
-│ └── WarrantyInfo.jsx
+│   ├── HomePage.jsx
+│   ├── components/
+│   │   ├── HeroSection.jsx
+│   │   ├── ProblemSection.jsx
+│   │   ├── SolutionSection.jsx
+│   │   ├── FeaturesSection.jsx
+│   │   ├── BenefitsSection.jsx
+│   │   ├── TrustSection.jsx
+│   │   ├── AudienceSection.jsx
+│   │   ├── ReviewsCarousel.jsx
+│   │   └── CTASection.jsx
+│   │
+│   ├── PrivacyPolicy.jsx
+│   ├── ContactUs.jsx
+│   ├── AboutUs.jsx
+│   ├── HelpCenter.jsx
+│   ├── FarmersGuide.jsx
+│   └── WarrantyInfo.jsx
 │
 ├── App.jsx
 └── index.js
+```
 
 
 
