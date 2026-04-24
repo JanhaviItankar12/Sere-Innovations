@@ -111,7 +111,7 @@ cd Frontend
    ```npm install```
 3. **Start development server**
    ```npm start```
-4.**Build for production**
+4. **Build for production**
    ```npm run build```
 
 🎯 Key Highlights
