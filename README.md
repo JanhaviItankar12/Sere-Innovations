@@ -3,6 +3,8 @@
 A responsive, farmer-friendly landing page for Sere Innovations’ smart egg incubator.  
 Built as part of the Frontend Developer Intern assessment for NayaGrowth.
 
+**Live Demo:** [https://sere-innovations-cyan.vercel.app/]
+
 ---
 
 ## 📌 Project Overview
