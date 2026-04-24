@@ -28,7 +28,6 @@ The design follows a **simple, trustworthy, human, grounded** personality — no
 ---
 
 ## 📂 Project Structure
-
 src/
 ├── components/
 │ ├── Navbar.jsx
