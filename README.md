@@ -15,42 +15,44 @@ The design follows the brand’s **simple, trustworthy, human, grounded** person
 
 ---
 
-## 🛠️ Tech Stack
-
-- **React** – Component‑based UI
-- **Tailwind CSS** – Utility‑first styling, fully responsive
-- **React Router DOM** – Client‑side routing (Privacy Policy, Contact, About, Help, etc.)
-- **Vercel / Netlify** – Deployment (static hosting)
+🛠️ Tech Stack
+⚛️ React – Component-based UI
+🎨 Tailwind CSS – Utility-first responsive styling
+🔀 React Router DOM – Client-side routing
+🚀 Vercel – Deployment
 
 ---
 
 ## 📂 Project Structure
 src/
 ├── components/
-  ├── Navbar.jsx
-  ├── Layout.jsx
-  └── Footer.jsx
-  └── ScrollToTop.jsx
+│   ├── Navbar.jsx
+│   ├── Layout.jsx
+│   ├── Footer.jsx
+│   └── ScrollToTop.jsx
+│
 ├── HomePage/
-  ├── HomePage.jsx (aggregates all sections)
-  ├── components/
-      ├── HeroSection.jsx
-      ├── ProblemSection.jsx
-      ├── SolutionSection.jsx
-      ├── FeaturesSection.jsx
-      ├── BenefitsSection.jsx
-      ├── TrustSection.jsx
-      ├── AudienceSection.jsx
-      ├── ReviewsCarousel.jsx
-      ├── CTASection.jsx
-  ├── PrivacyPolicy.jsx
-  ├── ContactUs.jsx
-  ├── AboutUs.jsx
-  ├── HelpCenter.jsx
-  ├── FarmersGuide.jsx
-  └── WarrantyInfo.jsx
+│   ├── HomePage.jsx
+│   ├── components/
+│   │   ├── HeroSection.jsx
+│   │   ├── ProblemSection.jsx
+│   │   ├── SolutionSection.jsx
+│   │   ├── FeaturesSection.jsx
+│   │   ├── BenefitsSection.jsx
+│   │   ├── TrustSection.jsx
+│   │   ├── AudienceSection.jsx
+│   │   ├── ReviewsCarousel.jsx
+│   │   └── CTASection.jsx
+│   │
+│   ├── PrivacyPolicy.jsx
+│   ├── ContactUs.jsx
+│   ├── AboutUs.jsx
+│   ├── HelpCenter.jsx
+│   ├── FarmersGuide.jsx
+│   └── WarrantyInfo.jsx
+│
 ├── App.jsx
-├── index.js
+└── index.js
 
 
 ---
@@ -107,14 +109,10 @@ The homepage contains all required sections from the brief:
 4.**Build for production**
    npm run build
 
-🌐 Deployment
-The project is deployed on Vercel (or Netlify).
-To deploy your own:
-
-Push the code to a GitHub repository.
-
-Import the repo on Vercel.
-
-Default settings work – build command npm run build, output directory build.
+🎯 Key Highlights
+Realistic farmer-centric design (not generic SaaS UI)
+No fake testimonials or misleading claims
+Strong focus on trust, clarity, and usability
+Clean component-based architecture
    
    
